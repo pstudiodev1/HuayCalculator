@@ -1,0 +1,10 @@
+C:\wamp64\www\projects\CalHuay\CalHuay\bin\Debug\CalHuay.exe.config
+C:\wamp64\www\projects\CalHuay\CalHuay\bin\Debug\CalHuay.exe
+C:\wamp64\www\projects\CalHuay\CalHuay\bin\Debug\CalHuay.pdb
+C:\wamp64\www\projects\CalHuay\CalHuay\obj\Debug\CalHuay.csprojAssemblyReference.cache
+C:\wamp64\www\projects\CalHuay\CalHuay\obj\Debug\CalHuay.Properties.Resources.resources
+C:\wamp64\www\projects\CalHuay\CalHuay\obj\Debug\CalHuay.csproj.GenerateResource.cache
+C:\wamp64\www\projects\CalHuay\CalHuay\obj\Debug\CalHuay.csproj.CoreCompileInputs.cache
+C:\wamp64\www\projects\CalHuay\CalHuay\obj\Debug\CalHuay.exe
+C:\wamp64\www\projects\CalHuay\CalHuay\obj\Debug\CalHuay.pdb
+C:\wamp64\www\projects\CalHuay\CalHuay\obj\Debug\CalHuay.MainForm.resources
